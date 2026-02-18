@@ -19,5 +19,5 @@
 * **Herramientas:** VS Code, Git/GitHub, Jupyter Notebooks.
 
 📫 **Contáctame:**
-* [LinkedIn](www.linkedin.com/in/luis-felipe-gómez-gonzález-88b918392)
+* [LinkedIn](https://www.linkedin.com/in/luis-felipe-gómez-gonzález-88b918392)
 * [Correo electrónico](mailto:feli268@hotmail.com)
