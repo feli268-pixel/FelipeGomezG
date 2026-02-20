@@ -1,6 +1,6 @@
 # FelipeGomezG
 
-### Hola, soy Luis Felipe | Estudiante de Sistemas Computacionales
+### Hola, soy Luis Felipe | Estudiante de Ingeniería Sistemas Computacionales
 
 ¡Bienvenido a mi portafolio! Soy un apasionado de la tecnología y los datos, enfocado en resolver problemas reales mediante código. Actualmente me estoy especializando en **Data Science** y **Automatización**.
 
